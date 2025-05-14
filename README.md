@@ -1,4 +1,5 @@
-![1000634068](https://github.com/user-attachments/assets/2782ea3b-d64c-4020-b03f-10690e806be4)
+![preview](https://github.com/user-attachments/assets/eb00059e-aa90-462c-b070-3153729f28b9)
+
 # SteamClouds-Updater
 A free tool designed to help users easily update Lua and manifest files for use with SteamTools, GreenLuma, Etc...
 
