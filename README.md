@@ -23,4 +23,4 @@ Telegram Bot : [Smart Hubs](https://t.me/steamcloudsbot)<br>
 
 # **Donation**
 I truly appreciate your support—it means so much to me! Thank you for being there
-Contact me [R3verseNinja]([https://t.me/smart_hubs](https://t.me/R3verseNinja))
+Contact me [R3verseNinja](https://t.me/R3verseNinja)
