@@ -17,6 +17,10 @@ Steam Cloud Updater is a powerful tool designed to seamlessly update Lua files w
 10. Launch Steam and check your game library — you should now see an update notification.
 
 # **Official Hubs**
-Youtube : [Smart Mods](https://youtube.com/@smart_mods)
-Telegram : [Smart Hubs](https://t.me/smart_hubs)
-Telegram Bot : [Smart Hubs](https://t.me/steamcloudsbot)
+Youtube : [Smart Mods](https://youtube.com/@smart_mods)<br>
+Telegram : [Smart Hubs](https://t.me/smart_hubs)<br>
+Telegram Bot : [Smart Hubs](https://t.me/steamcloudsbot)<br>
+
+# **Donation**
+I truly appreciate your support—it means so much to me! Thank you for being there
+Contact me [R3verseNinja]([https://t.me/smart_hubs](https://t.me/R3verseNinja))
