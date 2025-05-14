@@ -1,4 +1,4 @@
-![preview](https://github.com/user-attachments/assets/eb00059e-aa90-462c-b070-3153729f28b9)
+![preview](https://github.com/user-attachments/assets/2c8c8e63-c873-4af2-b246-8a397cb97dce)
 
 # SteamClouds-Updater
 Steam Cloud Updater is a powerful tool designed to seamlessly update Lua files with the latest manifest IDs for Steam games, ensuring optimal compatibility and performance.
